@@ -1,0 +1,7 @@
+body{background:#f4f6f8;font-family:Arial;}
+.container{width:700px;margin:30px auto;background:white;padding:20px;border-radius:10px;}
+#chat-box{height:500px;overflow-y:auto;border:1px solid #ddd;padding:10px;margin-bottom:15px;}
+.user{text-align:right;margin:10px;}
+.bot{text-align:left;margin:10px;}
+input{width:80%;padding:10px;}
+button{padding:10px 20px;}
