@@ -8,6 +8,7 @@ A Flask-based AI chatbot application powered by Google's Generative AI (Gemini).
 - Built with Flask web framework
 - Uses Google Generative AI for intelligent responses
 - Clean and responsive UI
+- Chat history tracking (coming soon)
 
 ## Tech Stack
 
